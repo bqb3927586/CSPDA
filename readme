@@ -1,0 +1,14 @@
+Require package
+
+1. numpy
+2. matplotlib
+3. multiprocessing
+4. tqdm>=4.42.0
+
+
+
+CSPDA.py and CSPDA_kappa.py accomplish the algorithm 1 in the paper with kappa=0 and kappa>0, respectively.
+
+environment_queue.py establishes the single machine queuing system
+
+plot_final.py uses the result from CSPDA.py and CSPDA_kappa.py to generate the Fig. 1 in the paper

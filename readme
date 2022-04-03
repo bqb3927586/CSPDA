@@ -1,3 +1,7 @@
+Simulation for Qinbo Bai, Amrit Singh Bedi, Mridul Agarwal, Alec Koppel, and Vaneet Aggarwal. Achieving zero con-
+straint violation for concave utility constrained reinforcement learning via primal-dual approach, 2021.
+
+
 Require package
 
 1. numpy
